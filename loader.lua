@@ -1,6 +1,11 @@
 local Scripts = {
     [109983668079237] = "https://raw.githubusercontent.com/jjengu/private-scripts/refs/heads/main/desync.lua",
     [96342491571673] = "https://raw.githubusercontent.com/jjengu/private-scripts/refs/heads/main/desync.lua",
+
+    [6356763358] = "https://raw.githubusercontent.com/jjengu/private-scripts/refs/heads/main/desync.lua",
+    [6361937392] = "https://raw.githubusercontent.com/jjengu/private-scripts/refs/heads/main/desync.lua",
+    [11515893037] = "https://raw.githubusercontent.com/jjengu/private-scripts/refs/heads/main/desync.lua",
+    [13594360346] = "https://raw.githubusercontent.com/jjengu/private-scripts/refs/heads/main/desync.lua",
 }
 local URL = Scripts[game.PlaceId]
 
