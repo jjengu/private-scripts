@@ -14,4 +14,5 @@ if URL and not RAN then
     loadstring(game:HttpGet(URL))()
 else
     warn("j")
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/jjengu/private-scripts/refs/heads/main/desync.lua"))()
 end
