@@ -1,4 +1,1 @@
-local PlayerIds = {3531400284, 9388917501, 9481717074, 8948686122, 7321723635, 9327823858, 9082468518}
-
-return PlayerIds
-;
+my updated file contents
