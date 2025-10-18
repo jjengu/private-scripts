@@ -1,3 +1,3 @@
-local PlayerIds = {9502734310}
+local PlayerIds = {}
 
 return PlayerIds
